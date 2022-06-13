@@ -31,3 +31,6 @@
 *.out
 *.app
 /cmake-build-debug/
+/.idea/misc.xml
+/.vs/
+/out/

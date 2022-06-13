@@ -1,9 +1,4 @@
-//
-// Created by YLB on 2022/6/12.
-//
-
-#ifndef STDINC_H
-#define STDINC_H
+#pragma once
 
 #include <cstring>
 #include <cerrno>
@@ -28,6 +23,3 @@ static void handle_recv(struct bufferevent*, void*);
 static void handle_send(struct bufferevent*, void*);
 static void handle_event(struct bufferevent*, short, void*);
 static void handle_signal(evutil_socket_t, short, void*);
-
-
-#endif //STDINC_H

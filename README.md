@@ -1,15 +1,15 @@
-# ²âÊÔReactorÄ£Ê½
+# æµ‹è¯•Reactoræ¨¡å¼
 
-×Ü¹²ËÄÖÖÀàĞÍµÄReactor·½°¸£º
+æ€»å…±å››ç§ç±»å‹çš„Reactoræ–¹æ¡ˆï¼š
 
-1. µ¥ Reactor µ¥½ø³Ì / Ïß³Ì£»
-2. µ¥ Reactor ¶à½ø³Ì / Ïß³Ì£»
-3. ¶à Reactor µ¥½ø³Ì / Ïß³Ì£»
-4. ¶à Reactor ¶à½ø³Ì / Ïß³Ì¡£
+1. å• Reactor å•è¿›ç¨‹ / çº¿ç¨‹ï¼›
+2. å• Reactor å¤šè¿›ç¨‹ / çº¿ç¨‹ï¼›
+3. å¤š Reactor å•è¿›ç¨‹ / çº¿ç¨‹ï¼›
+4. å¤š Reactor å¤šè¿›ç¨‹ / çº¿ç¨‹ã€‚
 
-## ²Î¿¼ÎÄµµ
+## å‚è€ƒæ–‡æ¡£
 
-* [³¹µ×¸ã¶®ReactorÄ£ĞÍºÍProactorÄ£ĞÍ](https://cloud.tencent.com/developer/article/1488120)
-* [ÈçºÎÉî¿ÌÀí½âReactorºÍProactor£¿](https://www.zhihu.com/question/26943938)
-* [¸ßĞÔÄÜIOÄ£ĞÍ·ÖÎö-ReactorÄ£Ê½ºÍProactorÄ£Ê½£¨¶ş£©](https://zhuanlan.zhihu.com/p/95662364)
-* [libeventÉîÈëÇ³³ö](https://aceld.gitbooks.io/libevent/content/31_reactorfan_ying_dui_mo_shi.html)
+* [å½»åº•ææ‡‚Reactoræ¨¡å‹å’ŒProactoræ¨¡å‹](https://cloud.tencent.com/developer/article/1488120)
+* [å¦‚ä½•æ·±åˆ»ç†è§£Reactorå’ŒProactorï¼Ÿ](https://www.zhihu.com/question/26943938)
+* [é«˜æ€§èƒ½IOæ¨¡å‹åˆ†æ-Reactoræ¨¡å¼å’ŒProactoræ¨¡å¼ï¼ˆäºŒï¼‰](https://zhuanlan.zhihu.com/p/95662364)
+* [libeventæ·±å…¥æµ…å‡º](https://aceld.gitbooks.io/libevent/content/31_reactorfan_ying_dui_mo_shi.html)
